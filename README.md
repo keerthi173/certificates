@@ -1,4 +1,4 @@
-Certificates
+Certificates:
 This repository contains my tech-related certificates from workshops, webinars, and events.
 
 AIOT Workshop – IIT Hyderabad
