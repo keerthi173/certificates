@@ -8,4 +8,3 @@ Role: Participant
 Location: IIT Hyderabad
 Date: 16–17 March 2024
 
-Click to view certificate: ./aiot-keerthi.pdf
